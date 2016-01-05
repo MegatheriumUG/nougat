@@ -1,0 +1,13 @@
+ng.module('ash.ash')
+.requires(
+	'ash.core.engine',
+	'ash.core.componentMatchingFamily',
+	'ash.core.entity',
+	'ash.core.entityList',
+	'ash.core.family',
+	'ash.core.node',
+	'ash.core.nodeList',
+	'ash.core.nodePool',
+	'ash.core.system',
+	'ash.core.systemList')
+.defines(function(){});

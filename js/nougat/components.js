@@ -1,0 +1,9 @@
+ng.module('nougat.components')
+.requires(
+'nougat.components.position',
+'nougat.components.size',
+'nougat.components.color',
+'nougat.components.geometry',
+'nougat.components.material',
+'nougat.components.mesh'
+).defines();

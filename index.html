@@ -1,0 +1,208 @@
+<html>
+<head>
+	<title>Nougat Engine</title>
+	<style type="text/css">
+		body {
+			margin: 0;
+			background-color: #333;
+		}
+		body.idle {
+			cursor: none;
+		}
+		canvas {
+			width: 100%;
+			height: 100%;
+		}
+
+		.debug {
+			font-family: helvetica;
+			position: absolute;
+			width: 200px;
+			height: 200px;
+			background-color: rgba(0, 0, 0, 0.4);
+			color: #fff;
+			padding: 10px;
+			z-index: 100;
+			display: none;
+		}
+
+		#debug {
+			width: 100%;
+			height: 100%;
+		}
+
+		.red {
+			color: #f00;
+		}
+
+		.green {
+			color: #0f0;
+		}
+
+		.fat {
+			font-weight: bold;
+		}
+
+		#player {
+			display: block;
+			position: fixed;
+			width: 100%;
+			bottom: 60px;
+			margin: 0 auto;
+			z-index: 5;
+		}
+
+		#player .player {
+			background-color: rgba(0,0,0,0.2);
+			border: none;
+		}
+
+		#player .controls {
+			color: #fff;
+		}
+
+		#playButton {
+			position: absolute;
+			left: 45%;
+			top: 45%;
+			width: 10%;
+			height: 10%;
+			z-index: 10;
+			color: #fff;
+			font-size: 10vmin;
+			font-family: td-player;
+		    speak: none;
+		    font-style: normal;
+		    font-weight: 400;
+		    font-variant: normal;
+		    text-transform: none;
+		    line-height: 1;
+		    display: inline-block;
+		    text-rendering: auto;
+		    -webkit-font-smoothing: antialiased;
+		    -moz-osx-font-smoothing: grayscale;
+		    cursor: pointer;
+		    transition: all 0.3s ease-in-out;
+		}
+
+		#playButton:before {
+			content: '\e603';
+		}
+		#playButton.playing:before {
+			content: '\e601';
+		}
+
+		#playButton.playing {
+			opacity: 0.0;
+		}
+
+		#playButton.playing:hover {
+			opacity: 1.0;
+		}
+
+		.image {
+			display: none !important;
+		}
+	</style>
+</head>
+<body>
+	<div class="debug">
+		<h2>Debug</h2>
+		<div id="debug"></div>
+	</div>
+	<script src="js/SortedArray.js"></script>
+	<script src="js/three.js"></script>
+	<script src="shader/js/CopyShader.js"></script>
+	<script src="shader/js/BokehShader.js"></script>
+	<script src="shader/js/DirectionalBlur.js"></script>
+	<script src="js/three/EffectComposer.js"></script>
+	<script src="js/three/RenderPass.js"></script>
+	<script src="js/three/ShaderPass.js"></script>
+	<script src="js/three/MaskPass.js"></script>
+	<script src="js/three/BokehPass.js"></script>
+
+	<script src="js/signals.js"></script>
+	<script src="js/InputState.js"></script>
+	<script src="js/Nougat.js"></script>
+	<script src="js/Start.js"></script>
+
+	<!--<iframe name="player" id="player" width="50%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/207815574%3Fsecret_token%3Ds-mlk57&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>-->
+	<i id="playButton" class="player-play play tdicon-play-circle-outline"></i>
+	<div id="player"></div>
+	
+	<script>
+		/*
+		var player = document.getElementById('player');
+		player.onload = function() {
+			var cssLink = document.createElement("link");
+			cssLink.href = "player.css";
+			cssLink.rel = "stylesheet";
+			cssLink.type = "text/css";
+			player.contentDocument.head.appendChild(cssLink);
+		}
+		*/
+		var player, button;
+		(function() {
+		  var script = document.createElement('script');
+
+		  script.type = 'text/javascript';
+		  script.async = true;
+		  script.src = 'http://sd.toneden.io/production/toneden.loader.js'
+
+		  var entry = document.getElementsByTagName('script')[0];
+		  entry.parentNode.insertBefore(script, entry);
+		}());
+
+		ToneDenReady = window.ToneDenReady || [];
+		ToneDenReady.push(function() {
+		  // This is where all the action happens:
+		  player = ToneDen.player.create({
+		     dom: '#player',
+		     urls: [
+		        'https://soundcloud.com/teflodude/jungle-temple/s-mlk57'
+		     ],
+		     mini: true,
+		     skin: 'dark'
+		  });
+
+		  button = document.getElementById('playButton');
+		  button.paused = true;
+		  button.addEventListener('click', function() {
+		  	if(button.paused) {
+		  		button.paused = false;
+		  		player.play();
+		  		button.className += ' playing';
+		  		ng.game.play();
+		  	}else{
+		  		button.paused = true;
+		  		player.pause();
+		  		button.className = button.className.replace(' playing', '');
+		  		ng.game.pause();
+		  	}
+		  	
+		  });
+		});
+
+		var hideTimeout;
+		var hidden = false;
+		document.body.addEventListener('mousemove', function() {
+			if(!hidden) {
+				hidden = false;
+				clearTimeout(hideTimeout);
+				document.body.className = document.body.className.replace('idle', '');
+				if(!button.paused) {
+					hideTimeout = setTimeout(function() {
+						document.body.className += 'idle';
+						hidden = true;
+						setTimeout(function() {
+							hidden = false;
+						}, 200);
+					}, 1000);
+				}
+			}
+		});
+		
+	</script>
+	
+</body>
+</html>

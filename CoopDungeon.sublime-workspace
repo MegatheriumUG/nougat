@@ -1,0 +1,1201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"state",
+				"statemachine"
+			],
+			[
+				"ca",
+				"camera"
+			],
+			[
+				"for",
+				"foreground"
+			],
+			[
+				"compo",
+				"components"
+			],
+			[
+				"camer",
+				"cameraShake"
+			],
+			[
+				"cam",
+				"cameraShake"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"ani",
+				"animation"
+			],
+			[
+				"anima",
+				"animations"
+			],
+			[
+				"sq",
+				"sequenceId"
+			],
+			[
+				"seq",
+				"sequence"
+			],
+			[
+				"s",
+				"sequence"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"get",
+				"getElapsedTime"
+			],
+			[
+				"Compo",
+				"Components"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"com",
+				"componentClass"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"Ent",
+				"Entity"
+			],
+			[
+				"v",
+				"Vector3"
+			],
+			[
+				"obje",
+				"objectCount"
+			],
+			[
+				"obj",
+				"objectCount"
+			],
+			[
+				"co",
+				"component"
+			],
+			[
+				"pr",
+				"propName"
+			],
+			[
+				"Mesh",
+				"MeshLambertMaterial"
+			],
+			[
+				"Th",
+				"THREE"
+			],
+			[
+				"bu",
+				"buttons"
+			],
+			[
+				"_onMouse",
+				"_onMouseMove"
+			],
+			[
+				"Mous",
+				"MOUSEALIAS"
+			],
+			[
+				"_on",
+				"_onMouseChange"
+			],
+			[
+				"_onMo",
+				"_onMouseUp"
+			],
+			[
+				"no",
+				"nodeClass"
+			],
+			[
+				"fam",
+				"families"
+			],
+			[
+				"po",
+				"pos"
+			],
+			[
+				"_com",
+				"_componentRemoved"
+			],
+			[
+				"_component",
+				"_componentAdded"
+			],
+			[
+				"famil",
+				"families"
+			],
+			[
+				"entit",
+				"entities"
+			],
+			[
+				"etit",
+				"entities"
+			],
+			[
+				"ent",
+				"entities"
+			],
+			[
+				"compoe",
+				"componentRemoved"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"inst",
+				"instanceof"
+			],
+			[
+				"Os",
+				"Oswald-regular"
+			],
+			[
+				"Oswald",
+				"Oswald-Regular"
+			],
+			[
+				"menu",
+				"menuEntry"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"menuB",
+				"menuButtonWidth"
+			],
+			[
+				"cla",
+				"calcFrame"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"lo",
+				"logoOverlay"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"collision"
+			],
+			[
+				"getCo",
+				"getCollision"
+			],
+			[
+				"do",
+				"dotB"
+			],
+			[
+				"m",
+				"multiplyScalar"
+			],
+			[
+				"entr",
+				"entryAxis"
+			],
+			[
+				"entry",
+				"entryAxis"
+			],
+			[
+				"chec",
+				"checkAxis"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"exit",
+				"exitAxisTime"
+			],
+			[
+				"draw",
+				"drawDebug"
+			],
+			[
+				"ren",
+				"renderer"
+			],
+			[
+				"req",
+				"requestAnimationFrame"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"ape",
+				"appendTo"
+			],
+			[
+				"re",
+				"renderer"
+			],
+			[
+				"mod",
+				"modulesLoaded"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"por",
+				"prototype"
+			],
+			[
+				"Confi",
+				"ConfigurationFieldAdd"
+			],
+			[
+				"conf",
+				"configurationId"
+			],
+			[
+				"de",
+				"deployment"
+			],
+			[
+				"dep",
+				"deploymentId"
+			],
+			[
+				"add",
+				"addition"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"Re",
+				"ReportView"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"border-to",
+				"border-top-left-radius"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"border-bot",
+				"border-bottom-style"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"edit",
+				"editedAt"
+			],
+			[
+				"sel",
+				"selectables"
+			],
+			[
+				"SELE",
+				"SELECTMULTI"
+			],
+			[
+				"selec",
+				"selectable"
+			],
+			[
+				"in",
+				"input-group-lg"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"Add",
+				"AddUserCtrl"
+			],
+			[
+				"rout",
+				"routeParams"
+			],
+			[
+				"rou",
+				"routeParams"
+			],
+			[
+				"html",
+				"html5Mode"
+			],
+			[
+				"loca",
+				"locationProvider"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"loc",
+				"locationProvider"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"drop",
+				"dropdown-toggle"
+			],
+			[
+				"of",
+				"offsetWidth"
+			],
+			[
+				"offset",
+				"offsetTop"
+			],
+			[
+				"offs",
+				"offsetLeft"
+			],
+			[
+				"off",
+				"offsetHeight"
+			],
+			[
+				"gra",
+				"grabRight"
+			],
+			[
+				"ofs",
+				"offsetTop"
+			],
+			[
+				"grab",
+				"grabPos"
+			],
+			[
+				"grabb",
+				"grabbed"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"red",
+				"redWidth"
+			],
+			[
+				"blu",
+				"blueWidth"
+			],
+			[
+				"gre",
+				"greenWidth"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Hel",
+				"Helvetica"
+			],
+			[
+				"font-",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/Start.js",
+			"settings":
+			{
+				"buffer_size": 2469,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/nougat/entities/sprite.js",
+			"settings":
+			{
+				"buffer_size": 2246,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shader/fragment/pixelated.fs",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/Nougat.js",
+			"settings":
+			{
+				"buffer_size": 9797,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/nougat/components/material.js",
+			"settings":
+			{
+				"buffer_size": 882,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/nougat/components/parallax.js",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Project: Add Folder"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Nougat Engine",
+		"/C/xampp/htdocs/Nougat Engine/shader",
+		"/C/xampp/htdocs/Nougat Engine/shader/fragment",
+		"/C/xampp/htdocs/Nougat Engine/shader/vertex"
+	],
+	"file_history":
+	[
+		"/D/temp/template/menu.jade",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/stateMachine/state.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/statemachine/statemachine.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/entities/sprite.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/animator.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/size.js",
+		"/C/xampp/htdocs/Nougat Engine/shader/vertex/pixelated.vs",
+		"/C/xampp/htdocs/Nougat Engine/shader/fragment/pixelated.fs",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/game.js",
+		"/C/xampp/htdocs/Nougat Engine/js/Nougat.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/material.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/systems.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/systems/parallax.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/parallax.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/animator.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/engine.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/family.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/entity.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/nodes/parallax.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/nodes/update.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/entities.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/entities/light.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/entities/cube.js",
+		"/C/xampp/htdocs/css-framework/js/generateSpritesheet.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/Time.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/debug.js",
+		"/C/xampp/htdocs/Nougat Engine/index.html",
+		"/C/xampp/htdocs/Nougat Engine/js/InputState.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/object.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/light.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/objects.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/texture.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/update.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/systems/update.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/color.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/geometry.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/input.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/mesh.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/motion.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/position.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/render.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/sprite.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/gravity.js",
+		"/C/xampp/htdocs/Nougat Engine/js/SortedArray.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/node.js",
+		"/C/xampp/htdocs/Nougat Engine/js/Start.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/system.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/nodes/object.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/nodes/input.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/component.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/light.js",
+		"/C/Users/Florian/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/css-framework/index.jade",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/input/button.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/objects/cube.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/input/inputmanager.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/systems/input.js",
+		"/C/xampp/htdocs/RedTouch1/public/js/controller.js",
+		"/C/xampp/htdocs/spherical/.git/rebase-apply/patch",
+		"/C/xampp/htdocs/spherical/data/maps/cargo-ship/ship.json",
+		"/C/xampp/htdocs/RedTouch1/template/suche.jade",
+		"/C/xampp/htdocs/RedTouch1/controller/PersonList.js",
+		"/C/xampp/htdocs/RedTouch1/config.js",
+		"/D/Dokumente/Code/Javascript/wordapp/index.html",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/components/keyboardinput.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/button.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/SortedArray.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/component",
+		"/C/xampp/htdocs/RedTouch1/template/index.jade",
+		"/C/xampp/htdocs/RedTouch1/public/css/stylesheet.css",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/propery.js",
+		"/C/xampp/htdocs/RedTouch1/public/config.js",
+		"/C/xampp/htdocs/Nougat Engine/js/nougat/objects/objects.js",
+		"/C/xampp/htdocs/CoopDungeon/js/signals.js",
+		"/C/xampp/htdocs/RedTouch1/red_touch_desktop/index.html",
+		"/C/xampp/htdocs/RedTouch1/template/impress.jade",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/red_touch_desktop/iframe.css",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/index.js",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/red_touch_desktop/index.html",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/config.js",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/public/css/stylesheet.css",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/template/imports.jade",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/template/menu.jade",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/template/index.jade",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/public/js/controller.js",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/controller/PersonList.js",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/template/person.jade",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/template/suche.jade",
+		"/C/xampp/mysql/my.cnf",
+		"/C/xampp/htdocs/GirlBrowser/index.js",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/public/config.js",
+		"/C/xampp/htdocs/CoopDungeon/js/Start.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/game.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/object.js",
+		"/C/xampp/htdocs/CoopDungeon/js/ash.js",
+		"/C/xampp/htdocs/GirlBrowser/TestServer/setup.sql",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/entity.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/collision.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/light.js",
+		"/C/xampp/htdocs/CoopDungeon/index.html",
+		"/C/xampp/htdocs/CoopDungeon/js/Nougat.js",
+		"/C/xampp/htdocs/TextComposer/index.html",
+		"/C/xampp/htdocs/TextComposer/public/stylesheet.css",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/components/size.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/nodes/movement.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/nodes/collision.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/components/motion.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/systems/movement.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/systems/collision.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/components.js",
+		"/C/xampp/htdocs/stash/simpleServer/template/browse.jade",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/components/position.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/components/gravity.js",
+		"/C/xampp/htdocs/CoopDungeon/js/nougat/entity",
+		"/C/xampp/htdocs/CoopDungeon/js/ash/framework.js",
+		"/C/xampp/htdocs/CoopDungeon/CoopDungeon.sublime-project",
+		"/D/Dokumente/Code/Javascript/ashjs-platformer-example-master/src/game/platformer.js",
+		"/D/Dokumente/Code/Javascript/ashjs-platformer-example-master/src/game/behaviour/path.js",
+		"/D/Dokumente/Code/Javascript/ashjs-platformer-example-master/src/platformer-game.js",
+		"/C/xampp/htdocs/spherical/impact/base/impact.js",
+		"/C/xampp/htdocs/psychic-octo/src/template/ServiceView.jade",
+		"/C/xampp/htdocs/psychic-octo/src/template/DeploymentView.jade",
+		"/C/xampp/htdocs/psychic-octo/src/template/ConfigurationFieldList.jade",
+		"/C/xampp/htdocs/psychic-octo/src/template/ServiceScriptAdd.jade",
+		"/C/xampp/htdocs/psychic-octo/src/model/Server.js",
+		"/C/xampp/htdocs/psychic-octo/src/controller/Server.js",
+		"/C/xampp/htdocs/psychic-octo/src/template/ServerAdd.jade"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"component",
+			"componentName",
+			"component",
+			"material",
+			"language",
+			"nodeClass",
+			"KeyboardState",
+			"prope",
+			"ng.",
+			"ng",
+			"nodeClass",
+			"entityClass",
+			"nodeClass",
+			"Component",
+			"component",
+			"Component",
+			"component",
+			"Component",
+			"component",
+			"Component",
+			"component",
+			"Component",
+			"component",
+			"Component",
+			"component",
+			"Component",
+			"component",
+			"Component",
+			"component",
+			"obj",
+			"alert",
+			"init",
+			"profil",
+			"profil_meta",
+			"wait",
+			"wai",
+			"timeou",
+			"config",
+			"tabs",
+			"a",
+			".x",
+			"exitTime",
+			"entryTime",
+			".x",
+			"x ",
+			"x",
+			"display",
+			"console.log",
+			"ConfigurationField",
+			"003878",
+			"value.",
+			"client",
+			"beepSound",
+			"ballHit",
+			"SoundHelper",
+			"soundhe",
+			"sound",
+			"this.sound",
+			"border",
+			"Wrapper",
+			"wrapper",
+			"#search",
+			" #sidebar",
+			"#display",
+			"#usermenue",
+			"#login",
+			"#blog",
+			"#header",
+			"#wrapper",
+			"id",
+			"lockIn",
+			"sounds.s",
+			"faceri",
+			"fold",
+			"betwe",
+			"game.time.",
+			"animation ",
+			"Animation ",
+			"animation ",
+			"Animation ",
+			"animation ",
+			"Animation ",
+			"animation ",
+			"animation",
+			"this.jump ",
+			"conso",
+			"this.colli",
+			"this.col",
+			"last",
+			"lastFl",
+			"body.s",
+			"roll",
+			"prototype",
+			"update",
+			"player.prototype.u",
+			"this",
+			"player",
+			"this",
+			"right",
+			"left",
+			"conso",
+			"sets",
+			"color",
+			"statemachine",
+			"inState",
+			"console",
+			"cur",
+			";\n",
+			"jumpReleased",
+			"console",
+			"ableToJump",
+			"wallClimb",
+			"player",
+			"pro",
+			"../src",
+			"flatten",
+			"extends",
+			"content2",
+			"cache",
+			"Match",
+			"bx",
+			"particleSize",
+			"item",
+			"post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wrapper",
+			".search",
+			".sidebar",
+			".display",
+			".usermenue",
+			".login",
+			".blog",
+			".header",
+			".Wrapper",
+			"class",
+			"Player.prototype",
+			"this",
+			"player",
+			"down",
+			"up",
+			"sprite",
+			"../src",
+			"comment"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/Start.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								908,
+								908
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 843.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/nougat/entities/sprite.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								746,
+								746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 275.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "shader/fragment/pixelated.fs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/Nougat.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9592,
+								9592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11474.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/nougat/components/material.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/nougat/components/parallax.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CoopDungeon.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pi",
+				"C:\\xampp\\htdocs\\BCB\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
